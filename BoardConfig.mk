@@ -1,6 +1,6 @@
 #
-# Copyright (C) 2023 The Android Open Source Project
-# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
+# Copyright (C) 2025 The Android Open Source Project
+# Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -99,6 +99,3 @@ TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
-
-#MYSELF
-TW_INCLUDE_CRYPTO := true
